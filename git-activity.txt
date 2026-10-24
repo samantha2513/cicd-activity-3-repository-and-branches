@@ -1,3 +1,5 @@
 This is my first Git activity.
 Name: Samantha Abegail A. Sadia
 Section:BSIS-3A
+This line was added on feature-branch.
+I am learning how branches work.
